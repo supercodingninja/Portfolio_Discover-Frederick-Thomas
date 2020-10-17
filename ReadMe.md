@@ -107,10 +107,22 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
     
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-TBD...
+Given that we met our Users' Stories, we want to accomplish the following criterea:
+
+    1.   Deploy a live url from this application.
+    2.   Our application loads with no errors.
+    3.   Our GitHub repository contains application code (showcase your work and thought process).
+    4.   Our application resembles the mock-up functionality provided in the demo (can we follow the designer's plan, even if you do not like it).
+    5.   Our repository should have a unique name.
+    6.   Our repository follows best practices for file structure and naming conventions.
+    7.   Our repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+    8.   Our repository contains multiple descriptive commit messagesm(again, showcase your thought process).
+    9.   As you've seen in my repository, it's a good idea that your repository contains quality readme with description, screenshot, link to deployed application.
 
 ## Future Project
 ###### [Back to Table of Contents](#Table-of-Contents)
-TBD...
+I will be creating a Code Generator, incorporating Javascript, next week!  Expect to see:
+
+    1.
 
 Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/Portfolio).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
