@@ -70,7 +70,7 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 
 ### Screenshots
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Let's Start with our ![Demo (without profile photo)](#docs/Demo/cssDemo.gif)
+#### Let's Start with our ![Demo](docs/Demo/cssDemo.gif) (without profile photo)
 #### TBD... ![TBD...](TBD...)
 #### TBD... ![TBD...](TBD...)
 
@@ -106,7 +106,7 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
     
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-Given that we met our Users' Stories, we want to accomplish the following criterea ([see demo](#docs/Demo/cssDemo.gif)):
+Given that we met our Users' Stories, we want to accomplish the following criterea ([see demo](docs/Demo/cssDemo.gif)):
 
     1.   Deploy a live url from this application.
     2.   Our application loads with no errors.
