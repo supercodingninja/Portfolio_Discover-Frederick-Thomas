@@ -1,7 +1,7 @@
 # Repository: Portfolio_Discover-Frederick-Thomas
 ##### [Deployed Application](https://supercodingninja.github.io/Portfolio_Discover-Frederick-Thomas/)
 
-#### © 2020-Present All Rights Reserved.  Portfolio® is a registered trademark of Super Coding Ninja™  All material must be cited or credited, when using material (free to use).
+#### © 2020-Present All Rights Reserved.  Portfolio_Discover-Frederick-Thomas® is a registered trademark of Super Coding Ninja™  All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
 * [Repository Description](#Repository-Description)
@@ -70,7 +70,7 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 
 ### Screenshots
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### TBD... ![TBD...](TBD...)
+#### Let's Start with our demo ![Demo (without profile photo](#docs/Demo/cssDemo.gif)
 #### TBD... ![TBD...](TBD...)
 #### TBD... ![TBD...](TBD...)
 
