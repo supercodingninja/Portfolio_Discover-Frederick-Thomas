@@ -4,15 +4,15 @@
 ## Table of Contents
 * [Repository Description](#Repository-Description)
 * [User Story](#User-Story)
-    * [Employer](#Employer)
-    * [Potential Employee](#Potential-Employee)
-    * [Developer](#Developer)
+    * [Employer](#As-an-Employer)
+    * [Potential Employee](#As-an-Potential-Employee)
+    * [Developer](#As-a-Developer)
 * [Overview: What We Accomplished!](#Overview)
     * [Workflow](#Workflow)
     * [Screenshots](#Screenshots)
     * [HTML](#HTML)
     * [CSS](#CSS)
-* [Repositiory End-Goal Criterea](#)
+* [Repositiory End-Goal Criterea](#Repositiory-End-Goal-Criterea)
 * [Future Project](#Future-Project)
 
 I hope you enjoy the repository, below (I love developing new projects).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja™](https://github.com/supercodingninja)
@@ -24,14 +24,14 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 ## User Story
 ### As an Employer:
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1.   
-    2.   
-    3.   
-    4.   
-    5.   
-    6.   
-    7.   
-    8.   
+    1.   I want to view a potential employee's deployed portfolio of work samples.
+    2.   I want to load their portfolio.
+    3.   I want to be presented with the developer's name, a recent photo, links to sections about them and their work; and how to contact them.
+    4.   I want to be able to click one of the links in the navigation; and verify that the jumps to the corresponding section.
+    5.   I want to scroll or navigate (link) to the corresponding section, and click on the link to the section about their work, I want to see a section with titled images of the developer's applications.
+    6.   I want to see the developer's first application larger in size, than the others.
+    7.   I want to be able to click on the images of the applications, and be directed to that deployed application (live url, etc.).
+    8.   I want to see a a responsive layout that adapts to my viewport, when I resize the page or view the site on various screens and devices.
 
 ### As a Potential Employee:
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -104,6 +104,10 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
     8. 
     9. 
     10. Published Live URL!
+    
+## Repositiory End-Goal Criterea
+###### [Back to Table of Contents](#Table-of-Contents)
+TBD...
 
 ## Future Project
 ###### [Back to Table of Contents](#Table-of-Contents)
