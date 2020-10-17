@@ -48,15 +48,14 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 
 ### As a Developer:
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1.   
-    2.   
-    3.   
-    4.   
-    5.   
-    6.   
-    7.   
-    8.   
-    9.   
+    1.   I want to ensure I use proper semantics; and simplify my CSS file.
+    2.   I want to ensure my sections are properly indented.
+    3.   I want to ensure the applications are responsive to most viewports/devices.
+    4.   I want the resources not to hinder the site's load time.
+    5.   I want the applications being showcased, to open in another tab or window: that way the employer can remain on the portfolio; because the work desired to be showcase has nothing to do with the portfolio, necessaroliy.
+    6.   I want to style the first application, larger in size than the others.
+    7.   I wnat to ensure the the developer's name, a recent photo, links to sections about them and their work; and how to contact them, are all on the website.
+    8.   I want to ensure the contact information functions, correctly ("email me," etc., works or performs its function).
 
 ## Overview: What We Accomplished!
 ### Workflow
@@ -123,6 +122,8 @@ Given that we met our Users' Stories, we want to accomplish the following criter
 ###### [Back to Table of Contents](#Table-of-Contents)
 I will be creating a Code Generator, incorporating Javascript, next week!  Expect to see:
 
-    1.
+    1.   I will show you how to randomly generate a password, that meets certain criteria.
+    2.   I will show you code for creating a button (perhaps, even some cool, gradiant styles).
+    3.   I will show you promots, and alerts, much, more; so follow me!
 
 Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/Portfolio).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
