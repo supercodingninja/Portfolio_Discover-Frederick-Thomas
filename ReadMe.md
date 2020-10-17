@@ -1,4 +1,5 @@
-# Repository: Portfolio
+# Repository: Portfolio_Discover-Frederick-Thomas [(Deployment)](#https://supercodingninja.github.io/Portfolio_Discover-Frederick-Thomas/)
+
 #### © 2020-Present All Rights Reserved.  Portfolio® is a registered trademark of Super Coding Ninja™  All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
@@ -31,20 +32,18 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
     5.   I want to scroll or navigate (link) to the corresponding section, and click on the link to the section about their work, I want to see a section with titled images of the developer's applications.
     6.   I want to see the developer's first application larger in size, than the others.
     7.   I want to be able to click on the images of the applications, and be directed to that deployed application (live url, etc.).
-    8.   I want to see a a responsive layout that adapts to my viewport, when I resize the page or view the site on various screens and devices.
+    8.   I want to see a a responsive layout that adapts to my viewport, when I resize the page, or view the site on various screens and devices.
 
 ### As a Potential Employee:
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1.   I want the employer view my deployed applications.
+    1.   I want the employer view all my deployed applications.
     2.   I want the employer to load my portfolio; and navigate with ease, to the appropiate links and sections.
     3.   I want to showcase my first work; and highlight my better work below (showing growth, and teamwork on team projects, etc.).
-    4.   
-    5.   
-    6.   
-    7.   
-    8.   
-    9.   
-    10. 
+    4.   I want my employer to see a responsive layout that adapts to any viewport: when the page is resized, or site can be viewed on various screens, and devices.
+    5.   I want the employer to see and remember my name, phot; and how to contact me- and I want to ensure the employer is able to contact me.
+    6.   I want my CVV to be able to be viewed.
+    7.   I want my contact info to be live; and for the employer to have te ability to email, call, or contact me via various media outlets provided.
+    8.   I want to land the job on "HELLO WORLD!"
 
 ### As a Developer:
 ###### [Back to Table of Contents](#Table-of-Contents)
