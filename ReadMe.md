@@ -70,7 +70,7 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 
 ### Screenshots
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Let's Start with our demo ![Demo (without profile photo](#docs/Demo/cssDemo.gif)
+#### Let's Start with our ![Demo (without profile photo)](#docs/Demo/cssDemo.gif)
 #### TBD... ![TBD...](TBD...)
 #### TBD... ![TBD...](TBD...)
 
