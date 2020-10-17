@@ -5,7 +5,7 @@
 * [Repository Description](#Repository-Description)
 * [User Story](#User-Story)
     * [Employer](#As-an-Employer)
-    * [Potential Employee](#As-an-Potential-Employee)
+    * [Potential Employee](#As-a-Potential-Employee)
     * [Developer](#As-a-Developer)
 * [Overview: What We Accomplished!](#Overview)
     * [Workflow](#Workflow)
@@ -35,9 +35,9 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 
 ### As a Potential Employee:
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1.   
-    2.   
-    3.   
+    1.   I want the employer view my deployed applications.
+    2.   I want the employer to load my portfolio; and navigate with ease, to the appropiate links and sections.
+    3.   I want to showcase my first work; and highlight my better work below (showing growth, and teamwork on team projects, etc.).
     4.   
     5.   
     6.   
@@ -107,12 +107,12 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
     
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-Given that we met our Users' Stories, we want to accomplish the following criterea:
+Given that we met our Users' Stories, we want to accomplish the following criterea ([see demo](#docs/Demo/cssDemo.gif)):
 
     1.   Deploy a live url from this application.
     2.   Our application loads with no errors.
     3.   Our GitHub repository contains application code (showcase your work and thought process).
-    4.   Our application resembles the mock-up functionality provided in the demo (can we follow the designer's plan, even if you do not like it).
+    4.   Our application resembles the mock-up functionality provided in the demo can we follow the designer's plan, even if you do not like it).
     5.   Our repository should have a unique name.
     6.   Our repository follows best practices for file structure and naming conventions.
     7.   Our repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
