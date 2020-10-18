@@ -7,12 +7,16 @@ body {
 }
 
 .topHeaderBanner {
-    padding: 0px;
+    padding-top: 2px;
+    padding-bottom: 5px;
     background-color: black;
     color: white;
+    height: 85px;
+    width: 100%;
 }
 
 .topHeaderBanner h1 {
+    padding-bottom: 2px;
     display: inline-block;
     font-size: 46px;
     font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,8 +27,8 @@ body {
 }
 
 .topHeaderBanner div {
-    padding-top: 15px;
-    margin-right: 15px;
+    padding-top: 10px;
+    margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -40,7 +44,8 @@ body {
     margin-left: 25px;
 }
 
-.navBar ul li a {
+.navBar ul li a.active, .navBar ul li a:hover {
+    background-color: white;
     color: cadetblue;
 }
 
