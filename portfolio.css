@@ -38,10 +38,13 @@ body {
     margin-left: 25px;
 }
 
-.navBar ul li a.active, .navBar ul li a:hover {
+.navBar ul li a {
     color: cadetblue;
 }
 
+a {
+    color: cadetblue;
+}
 .subHeaderBanner {
-    
+
 }
