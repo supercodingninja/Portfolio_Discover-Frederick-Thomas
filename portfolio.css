@@ -18,6 +18,8 @@ body {
     font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: black;
     background-color: cadetblue;
+    height: 50px;
+    width: 475px;
 }
 
 .topHeaderBanner div {
@@ -46,6 +48,7 @@ a {
     color: cadetblue;
 }
 .subHeaderBanner {
+    padding: 0px;
     background-image: url(docs/Media/images/subHeaderBanner_background.png);
     background-color: white; /* This is for when the image does not show */
     height: 187px;
