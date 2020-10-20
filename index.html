@@ -11,104 +11,100 @@
     </head>
 
     <body>
-        <div class="topHeaderBanner">
+        <header class="topHeaderBanner">
 
             <h1 alt="The main header is the developer's name, 'Frederick Thomas;' which is spelled first name 'F,' 'r,' 'e,' 'd,' 'e,' 'r,' 'i,' 'c,' 'k,' and last name spelled 'T,' 'h,' 'o,' 'm,' 'a,' 's'." title="Frederick Thomas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frederick Thomas</h1>
 
-            <div class="navBar">
-                <ul>
-                    <l1>
-                        <!--Ref. How to create more space in hyperlinks (also used in <h1> to get the same look as demo: https://www.computerhope.com/issues/ch001662.htm#:~:text=To%20create%20extra%20spaces%20before,breaking%20space)%20extended%20HTML%20character.-->
-                        <a href="#About-Me" alt="Page hyperlink to 'About Me' section." title="About Me">About Me</a>
-                    </l1>&nbsp
+            <nav>
+                <!--Ref. How to create more space in hyperlinks (also used in <h1> to get the same look as demo: https://www.computerhope.com/issues/ch001662.htm#:~:text=To%20create%20extra%20spaces%20before,breaking%20space)%20extended%20HTML%20character.-->
+                <a href="#About-Me" alt="Page hyperlink to 'About Me' section." title="About Me">About Me</a>&nbsp
 
-                    <l1>
-                        <a href="#Work" alt="Page hyperlink to 'Work' section." title="Work">Work</a>
-                    </l1>&nbsp
+                <a href="#Work" alt="Page hyperlink to 'Work' section." title="Work">Work</a>>&nbsp
 
-                    <l1>
-                        <a href="#Contact-Me" alt="Page hyperlink to 'Contact Me' section." title="Contact Me">Contact Me</a>
-                    </l1>&nbsp
+                <a href="#Contact-Me" alt="Page hyperlink to 'Contact Me' section." title="Contact Me">Contact Me</a>
 
-                    <l1>
-                        <a href="docs/Frederick Thomas_CV_2020.pdf" alt="Page hyperlink to 'Resume' section." title="Resume">Resume</a>
-                    </l1>
-                </ul>
-            </div>
-        </div>
+                <a href="docs/Frederick Thomas_CV_2020.pdf" alt="Page hyperlink to 'Resume' section." title="Resume">Resume</a>
+            </nav>
+        </header>
 
-        <div class="subHeaderBanner">
+        <header class="subHeaderBanner">
             <!--Cool Subtitle-->
             <h3>Full-Stack Web Developer</h3>
-        </div>
+        </header>
         
         <!--Aside tag Ref. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside; and https://www.w3schools.com/tags/tag_aside.asp-->
         <article>
-            <aside>
+            <aside class="sidebar">
                 <h2>About Me</h2>
                 <p>
                     I am synergetically simple, with complex ideas.  Bil Keane said it more, perfectly, "Yesterday was the past. Tomorrow is the future. Today is a gift, that why it's called the present."  I don't believe in waiting for tomorrow to happen; because tomorrow may never come.  I "Gather the facts, Analyze them, Make the best plan possible; and Execute it triumphly: that's how you win a G. A. M. E.!"- F. Thomas, Sr.  I design and develop New experiences; which makes people's lives Simple.  I love winning people; and building valuable relationships.  Let's change our world, together; and make it better for one another.
                 </p>
             </aside>
 
-            <div id="container">
+            <aside class="sidebar">
                 <h2>Work</h2>
                 <p>
                     I have various experiences, ranging from breaking code, to public speaking.  I believe in being a positive influence; and being a producer in our society.  I hope to help change someone's life for the better.  Here's some of my work throughout the years!
                 </p>
-                <!--This is the largest one: featured first work-->
-                <div class="1">
-                    <!--https://supercodingninja.github.io/-->
-                    <a href="https://supercodingninja.github.io" target="_blank">
-                        <img alt="First Repository (modified)" src="docs/Media/containerImages/scn.png">
-                    </a>
-                    <h3>HTML5/CSS3/Javascript/jQuery</h3>
-                </div>
 
-                <div class="2">
-                    <!--https://supercodingninja.github.io/codeRefactored/-->
-                    <a href="https://supercodingninja.github.io/codeRefactored" target="_blank">
-                        <img alt="Code Refactored Repository" src="docs/Media/containerImages/cr.png">
-                    </a>
-                    <h3>HTML5/CSS3</h3>
-                </div>
+                <section>
+                    <!--This is the largest one: featured first work-->
+                    <div class="container-lg">
+                        <!--https://supercodingninja.github.io/-->
+                        <a href="https://supercodingninja.github.io" target="_blank">
+                            <img alt="First Repository (modified)" src="docs/Media/containerImages/scn.png">
+                        </a>
+                        <h3>HTML5/CSS3/Javascript/jQuery</h3>
+                    </div>
 
-                <div class="3">
-                    <!--https://supercodingninja.github.io/dreamteamPlusPersonalStretchGoals/-->
-                    <a href="https://supercodingninja.github.io/dreamteamPlusPersonalStretchGoals" target="_blank">
-                        <img alt="Team Project Repository" src="docs/Media/containerImages/team.png">
-                    </a>
-                    <h3>HTML5/CSS3/Javascript-Objective C/jQuery</h3>
-                </div>
+                    <div class="container-md">
+                        <!--https://supercodingninja.github.io/codeRefactored/-->
+                        <a href="https://supercodingninja.github.io/codeRefactored" target="_blank">
+                            <img alt="Code Refactored Repository" src="docs/Media/containerImages/cr.png">
+                        </a>
+                        <h3>HTML5/CSS3</h3>
+                    </div>
 
-                <div class="4">
-                    <!--https://www.youtube.com/watch?v=CK_Z686G6No-->
-                    <a href="https://www.youtube.com/watch?v=CK_Z686G6No" target="_blank">
-                        <img alt="Adobe Creative Suite Project: 'Happy 5th Birthday, Madison!'" src="docs/Media/containerImages/mct.png">
-                    </a>
-                    <h3>Adobe Creative Suite Project</h3>
-                    <h4>Happy 5th Birthday, Madison!</h4>
-                </div>
+                    <div class="container-md">
+                        <!--https://supercodingninja.github.io/dreamteamPlusPersonalStretchGoals/-->
+                        <a href="https://supercodingninja.github.io/dreamteamPlusPersonalStretchGoals" target="_blank">
+                            <img alt="Team Project Repository" src="docs/Media/containerImages/team.png">
+                        </a>
+                        <h3>HTML5/CSS3/Javascript-Objective C/jQuery</h3>
+                    </div>
 
-                <div class="5">
-                    <!--https://www.youtube.com/watch?v=gP-fl4-H7hY&feature=youtu.be-->
-                    <a href="https://www.youtube.com/watch?v=gP-fl4-H7hY&feature=youtu.be" target="_blank">
-                        <img alt="Motivational Speaker: Frederick Thomas!" src="docs/Media/containerImages/strt.png">
-                    </a>
-                    <h3>Motivational Speaker: Frederick Thomas!</h3>
-                </div>
-            </div>
+                    <div class="container-md">
+                        <!--https://www.youtube.com/watch?v=CK_Z686G6No-->
+                        <a href="https://www.youtube.com/watch?v=CK_Z686G6No" target="_blank">
+                            <img alt="Adobe Creative Suite Project: 'Happy 5th Birthday, Madison!'" src="docs/Media/containerImages/mct.png">
+                        </a>
+                        <h3>Adobe Creative Suite Project</h3>
+                        <h4>Happy 5th Birthday, Madison!</h4>
+                    </div>
 
-            <aside>
+                    <div class="container-md">
+                        <!--https://www.youtube.com/watch?v=gP-fl4-H7hY&feature=youtu.be-->
+                        <a href="https://www.youtube.com/watch?v=gP-fl4-H7hY&feature=youtu.be" target="_blank">
+                            <img alt="Motivational Speaker: Frederick Thomas!" src="docs/Media/containerImages/strt.png">
+                        </a>
+                        <h3>Motivational Speaker: Frederick Thomas!</h3>
+                    </div>
+                </section>
+            </aside>
+
+            <aside class="sidebar">
                 <h2>Contact Me</h2>
                  <!--Cool + Class Profile Picture of Developer-->
-            <img src="docs/Media/images/UWproPic2.gif" width="225" height="225">
+                
+                <figure>
+                    <img src="docs/Media/images/UWproPic2.gif" width="225" height="225">
+                
+                    <figcaption>
+                        Hi, I'm Fredrick; and feel free to contact me, by selecting any of the icons!
+                    </figcaption>
+                </figure>
 
-                <p>
-                    Please feel free to contact me, by selecting any of the icons.
-                </p>
-
-                <div class="contact">
+                <div class="wrapper">
                     <ul style="list-style: none;">
                         <li>
                             Call Me!
