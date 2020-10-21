@@ -63,4 +63,21 @@ a {
     float: left;
     border: rgb(27, 36, 56);
     padding: 100px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
 }
+
+.sidebar p{
+    display: wrap;
+    font-size: 20px;
+    font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.wrapper {
+    display: inline-block;
+    float: right;
+}
+
