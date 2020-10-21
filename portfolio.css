@@ -84,7 +84,7 @@ a {
 
 .container-md {
     display: flex;
-    float: center;
+    float: right;
     flex-direction: row;
 }
 
