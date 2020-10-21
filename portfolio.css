@@ -76,8 +76,19 @@ a {
     color: black;
 }
 
+.container-lg{
+    display: flex;
+    float: center;
+    flex-direction: column;
+}
+
+.container-md {
+    display: flex;
+    float: center;
+    flex-direction: row;
+}
+
 .wrapper {
     display: inline-block;
     float: right;
 }
-
