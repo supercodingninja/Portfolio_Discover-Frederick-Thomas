@@ -26,27 +26,18 @@ body {
     width: 475px;
 }
 
-.topHeaderBanner div {
-    padding-top: 10px;
-    margin-right: 20px;
+.topHeaderBanner nav {
+    padding-top: 35px;
+    margin-right: 50px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     color: cadetblue;
 }
 
-.topHeaderBanner div ul {
-    list-style-type: none;
-}
-
-.topHeaderBanner div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-.navBar ul li a.active, .navBar ul li a:hover {
+.nav a.active, .nav a:hover {
     background-color: white;
-    color: cadetblue;
+    color: rgb(28, 10, 77);
 }
 
 a {
