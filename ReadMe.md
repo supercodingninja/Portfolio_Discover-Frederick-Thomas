@@ -1,7 +1,9 @@
 # Repository: Portfolio_Discover-Frederick-Thomas
 ##### [Deployed Application](https://supercodingninja.github.io/Portfolio_Discover-Frederick-Thomas/)
 
-#### Portfolio_Discover-Frederick-Thomas© 2020 All Rights Reserved.  All material must be cited or credited, when using material (free to use).  **Discover Frederick Thomas®**, **Discover Frederick Thomas!®**, **#DiscoverFrederickThomas®**, and **#DiscoverFrederickThomas!®** are  registered trademarks of **Super Coding Ninja™**; and are Not to be used without the explicit consent of Super Coding Ninja™ or Frederick Thomas, himself.
+#### Portfolio_Discover-Frederick-Thomas© 2020 All Rights Reserved.  All material must be cited or credited, when using material (free to use).
+
+**Discover Frederick Thomas®**, **Discover Frederick Thomas!®**, **#DiscoverFrederickThomas®**, and **#DiscoverFrederickThomas!®** are  registered trademarks of **Super Coding Ninja™**; and are Not to be used without the explicit consent of Super Coding Ninja™ or Frederick Thomas, himself.
 
 ## Table of Contents
 * [Repository Description](#Repository-Description)
