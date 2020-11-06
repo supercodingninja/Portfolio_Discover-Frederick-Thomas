@@ -42,14 +42,14 @@ a {
 .subHeaderBanner {
     background-image: url(docs/Media/images/subHeaderBanner_background.png);
     background-color: white; /* This is for when the image does not show */
-    height: 187px;
+    height: 200px;
     width: 100%;
     background-position: right;
     background-repeat: no-repeat; /* I do not want my image to repeat itself: just adjust the size. */
     background-size: cover;
 }
 
-.subHeaderBanner h3 {
+/* .subHeaderBanner h3 {
     display: inline-block;
     font-size: 22px;
     font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -57,7 +57,7 @@ a {
     background-color: cadetblue;
     height: 25px;
     width: 275px;
-}
+} */
 
 .sidebar h2 {
     float: left;
