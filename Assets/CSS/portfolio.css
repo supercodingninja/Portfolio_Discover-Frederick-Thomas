@@ -1,0 +1,95 @@
+body {
+    background-color: white;
+}
+
+.topHeaderBanner {
+    padding-top: 2px;
+    padding-bottom: 5px;
+    background-color: rgb(67, 65, 62);
+    color: white;
+    height: 85px;
+    width: 100%;
+}
+
+.topHeaderBanner h1 {
+    text-align: center;
+    padding-bottom: 2px;
+    display: inline-block;
+    font-size: 46px;
+    font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    background-color: cadetblue;
+    height: 50px;
+    width: 475px;
+}
+
+.topHeaderBanner nav {
+    padding-top: 35px;
+    margin-right: 50px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: cadetblue;
+}
+
+.nav a.active, .nav a:hover {
+    background-color: white;
+    color: rgb(28, 10, 77);
+}
+
+a {
+    color: cadetblue;
+}
+.subHeaderBanner {
+    background-image: url(Assets/Media/images/subHeaderBanner_background.png);
+    background-color: white; /* This is for when the image does not show */
+    height: 200px;
+    width: 100%;
+    background-position: right;
+    background-repeat: no-repeat; /* I do not want my image to repeat itself: just adjust the size. */
+    background-size: cover;
+}
+
+/* .subHeaderBanner h3 {
+    display: inline-block;
+    font-size: 22px;
+    font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    background-color: cadetblue;
+    height: 25px;
+    width: 275px;
+} */
+
+.sidebar h2 {
+    float: left;
+    border: rgb(27, 36, 56);
+    padding: 100px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.sidebar p{
+    display: wrap;
+    font-size: 20px;
+    font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.container-lg{
+    display: flex;
+    float: center;
+    flex-direction: column;
+}
+
+.container-md {
+    display: flex;
+    float: right;
+    flex-direction: row;
+}
+
+.wrapper {
+    display: inline-block;
+    float: right;
+}
