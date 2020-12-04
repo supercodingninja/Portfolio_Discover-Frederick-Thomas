@@ -1,5 +1,6 @@
-body {
-    background-color: white;
+body{
+    background-color: black;
+    color: whitesmoke;
 }
 
 .topHeaderBanner {
@@ -40,24 +41,15 @@ body {
 a {
     color: cadetblue;
 }
-.subHeaderBanner {
+
+/* .subHeaderBanner {
     background-image: url(Assets/Media/images/subHeaderBanner_background.png);
-    background-color: white; /* This is for when the image does not show */
-    height: 200px;
+    background-color: white; */ /* This is for when the image does not show */
+    /*height: 200px;
     width: 100%;
     background-position: right;
-    background-repeat: no-repeat; /* I do not want my image to repeat itself: just adjust the size. */
-    background-size: cover;
-}
-
-/* .subHeaderBanner h3 {
-    display: inline-block;
-    font-size: 22px;
-    font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: black;
-    background-color: cadetblue;
-    height: 25px;
-    width: 275px;
+    background-repeat: no-repeat; */ /* I do not want my image to repeat itself: just adjust the size. */
+    /*background-size: cover;
 } */
 
 .sidebar h2 {
@@ -77,19 +69,33 @@ a {
     color: black;
 }
 
-.container-lg{
-    display: flex;
-    float: center;
-    flex-direction: column;
+/* Carosel */
+.Carosel-Container {
+    max-width: 800px;
+    position: relative;
+    margin: auto;
 }
 
-.container-md {
-    display: flex;
-    float: right;
-    flex-direction: row;
+.myCarosel {
+    display: none;
 }
 
-.wrapper {
-    display: inline-block;
-    float: right;
+.Carosel-Slide {
+    color: whitesmoke;
+    font-size: 24px;
+    padding: 10px 15px;
+    position: absolute;
+    top: 2px;
+}
+
+/* Attempt at Carosel Buttons */
+.left, .right {
+    cursor: crosshair;
+    position: absolute;
+    top: 65%;
+    width: auto;
+    margin-top: -80px;
+    padding: 15px;
+    color: whitesmoke;
+    font-size: 24px;
 }
