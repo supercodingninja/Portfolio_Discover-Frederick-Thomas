@@ -70,26 +70,51 @@ a {
 }
 
 /* Carosel */
-.Carosel-Container {
+/* Deployed Project Button Style */
+#code {
+	box-shadow: 3px 4px 0px 0px #21338a;
+	background:linear-gradient(to bottom, #c4ae20 5%, #8838f0 100%);
+	background-color:#7520c4;
+	border-radius:18px;
+	border:1px solid #cfc019;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #857e3d;
+}
+#code:hover {
+	background:linear-gradient(to bottom, #3e38f0 5%, #c4ae20 100%);
+	background-color:#3e38f0;
+}
+#code:active {
+	position:relative;
+	top:1px;
+}
+
+/* .Carosel-Container {
     max-width: 800px;
     position: relative;
     margin: auto;
-}
+} */
 
-.myCarosel {
+/* .myCarosel {
     display: none;
-}
+} */
 
-.Carosel-Slide {
+/* .Carosel-Slide {
     color: whitesmoke;
     font-size: 24px;
     padding: 10px 15px;
     position: absolute;
     top: 2px;
-}
+} */
 
 /* Attempt at Carosel Buttons */
-.left, .right {
+/* .left, .right {
     cursor: crosshair;
     position: absolute;
     top: 65%;
@@ -98,11 +123,14 @@ a {
     padding: 10px 15px;
     color: whitesmoke;
     font-size: 24px;
-}
+} */
 
 /* I need to move the "right" class bttuon over and away from the "left" class button. */
-.right {
+/* .right {
     right: 30px;
     border-radius: 5px 0px 0px 5px;
-}
+} */
 
+#proPic {
+    margin-left: 10%;
+}
