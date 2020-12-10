@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(122, 103, 16);
     color: whitesmoke;
 }
 
@@ -60,7 +60,7 @@ a {
     display: inline-block;
     font-size: 32px;
     font-family: 'Century Gothic', 'Code2000','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(122, 103, 16);
+    color: rgb(67, 32, 78);
 }
 
 .sidebar p{
