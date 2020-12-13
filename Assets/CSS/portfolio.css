@@ -126,20 +126,27 @@ a {
     font-size: 24px;
 } */
 
-/* I need to move the "right" class bttuon over and away from the "left" class button. */
+/* I need to move the "right" class button over and away from the "left" class button. */
 /* .right {
     right: 30px;
     border-radius: 5px 0px 0px 5px;
 } */
 
+/* figcaption {
+    margin-left: 1px;
+} */
+
 #proPic {
+    width: 225px;
+    height: 225px;
+    float: left;
+    padding: 12px;
+}
+
+.wrapper {
     margin-right: 15%;
 }
 
-/* .wrapper {
-    margin-right: 15%;
-} */
-
 .contact {
-    margin-right: 10%;
+   padding: 5px;
 }
