@@ -89,11 +89,14 @@ a {
 
 .project-Container{
     display: flex;
-  align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 .Project {
-    
+    flex-grow: 3;
+    align-items: center;
 }
 
 .live {
@@ -114,3 +117,9 @@ a {
 .contact {
    padding: 5px;
 }
+
+/* .UWBC {
+    width: 225px;
+    height: 245px;
+    float: right;
+} */
