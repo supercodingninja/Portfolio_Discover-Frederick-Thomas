@@ -43,16 +43,6 @@ a {
     background-color: rgb(67, 32, 78);
 }
 
-/* .subHeaderBanner {
-    background-image: url(Assets/Media/images/subHeaderBanner_background.png);
-    background-color: white; */ /* This is for when the image does not show */
-    /*height: 200px;
-    width: 100%;
-    background-position: right;
-    background-repeat: no-repeat; */ /* I do not want my image to repeat itself: just adjust the size. */
-    /*background-size: cover;
-} */
-
 .sidebar h2 {
     float: left;
     border: rgb(27, 36, 56);
@@ -70,7 +60,6 @@ a {
     color: rgb(67, 32, 78);
 }
 
-/* Carosel */
 /* Deployed Project Button Style */
 #code {
 	box-shadow: 3px 4px 0px 0px #21338a;
@@ -87,58 +76,33 @@ a {
 	text-decoration:none;
 	text-shadow:0px 1px 0px #857e3d;
 }
+
 #code:hover {
 	background:linear-gradient(to bottom, #3e38f0 5%, #c4ae20 100%);
 	background-color:#3e38f0;
 }
+
 #code:active {
 	position:relative;
 	top:1px;
 }
 
-/* .Carosel-Container {
-    max-width: 800px;
-    position: relative;
-    margin: auto;
-} */
+.project-Container{
+    display: flex;
+  align-items: center;
+}
 
-/* .myCarosel {
-    display: none;
-} */
+.Project {
+    
+}
 
-/* .Carosel-Slide {
-    color: whitesmoke;
-    font-size: 24px;
-    padding: 10px 15px;
-    position: absolute;
-    top: 2px;
-} */
+.live {
 
-/* Attempt at Carosel Buttons */
-/* .left, .right {
-    cursor: crosshair;
-    position: absolute;
-    top: 65%;
-    width: auto;
-    margin-top: -80px;
-    padding: 10px 15px;
-    color: whitesmoke;
-    font-size: 24px;
-} */
-
-/* I need to move the "right" class button over and away from the "left" class button. */
-/* .right {
-    right: 30px;
-    border-radius: 5px 0px 0px 5px;
-} */
-
-/* figcaption {
-    margin-left: 1px;
-} */
+}
 
 #proPic {
     width: 225px;
-    height: 225px;
+    height: 245px;
     float: left;
     padding: 12px;
 }
