@@ -86,7 +86,7 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 
 ### CSS3
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Body and Header (not the <head>) ![Begin CSS](./Assets/Media/Demo/CSS1.png)
+#### Body and Header (not the "<head>" tag) ![Begin CSS](./Assets/Media/Demo/CSS1.png)
 #### Page Navigation Menu ![Page Navigation Menu](./Assets/Media/Demo/CSS2.png)
 #### Phrases ![Phrases](./Assets/Media/Demo/CSS3.png)
 
