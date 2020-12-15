@@ -128,6 +128,13 @@ a {
     align-items: center;
 }
 
+.Project h4, .Project h6 {
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 #proPic {
     width: 225px;
     height: 245px;
