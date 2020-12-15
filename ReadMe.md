@@ -78,17 +78,23 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 #### Application we created! ![Application](./Assets/Media/Demo/ScreenShot.jpg)
 #### Resume attached! ![Resume](./Assets/Media/Demo/ScreenShot2.png)
 
-### HTML
+### HTML5
 ###### [Back to Table of Contents](#Table-of-Contents)
 #### Head ![Head](./Assets/Media/Demo/HTML1.png)
 #### Page Navigation Menu ![Page Navigation Menu](./Assets/Media/Demo/HTML2.png)
 #### Phrases ![Phrases](./Assets/Media/Demo/HTML3.png)
 
-### CSS
+### CSS3
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Header ![Begin CSS](./Assets/Media/Demo/CSS1.png)
+#### Body and Header (not the <head>) ![Begin CSS](./Assets/Media/Demo/CSS1.png)
 #### Page Navigation Menu ![Page Navigation Menu](./Assets/Media/Demo/CSS2.png)
 #### Phrases ![Phrases](./Assets/Media/Demo/CSS3.png)
+
+### Javascript & jQuery (checkout the original tutorial, by Dave Rupert)
+###### [Back to Table of Contents](#Table-of-Contents)
+#### The Children ![Children](./Assets/Media/Demo/JS1.png)
+#### Functions ![Page Navigation Menu](./Assets/Media/Demo/JS2.png)
+#### Phrases ![Phrases](./Assets/Media/Demo/JS3.png)
     
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
