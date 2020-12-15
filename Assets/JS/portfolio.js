@@ -66,11 +66,6 @@ $("#os-phrases > h2")
         .css('opacity', 1).lettering( 'words' )
         .children( "span" ).lettering()
         .children( "span" ).lettering();
-    
-    $("#os-phrases > video")
-    .css('opacity', 1).lettering( 'words' )
-    .children( "span" ).lettering()
-    .children( "span" ).lettering();
 
 if (window.devicePixelRatio == 1.5) {
   alert("This is a high-density screen");

@@ -94,7 +94,7 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 ###### [Back to Table of Contents](#Table-of-Contents)
 #### The Children ![Children](./Assets/Media/Demo/JS1.png)
 #### Functions ![Page Navigation Menu](./Assets/Media/Demo/JS2.png)
-#### Phrases ![Phrases](./Assets/Media/Demo/JS3.png)
+#### Scaling for various viewports ![Scale](./Assets/Media/Demo/JS3.png)
     
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
