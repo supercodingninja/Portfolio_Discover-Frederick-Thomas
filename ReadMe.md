@@ -62,36 +62,25 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 ## Overview: What We Accomplished!
 ### Workflow
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1. 
-    2. 
-    3. 
-    4. 
-    5. 
-    6. 
-    7. 
+    1. Created a responsive menu.
+    2. Created responsive phrases.
+    3. Ensured that the phrases would not affect the navigation menu.
+    4. Added warm images of author.
+    5. Ensured resume opens in different tab.
+    6. Ensured contact information works; and will contact author!
+    7. Updated works created; and ensured works are also featured in GitHub.
+    8. Ensured page menu works.
+    9. Created a clean and responsive portfolio!
 
 ### Screenshots
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Let's Start with our  Demo (without profile photo) ![Demo](docs/Demo/cssDemo.gif)
-#### TBD... ![TBD...](TBD...)
-#### TBD... ![TBD...](TBD...)
+#### Let's Start with our  Demo (without profile photo) ![Demo](./Assets/Media/Demo/cssDemo.gif)
+#### Application we created! [Application](./Assets/Media/Demo/ScreenShot.jpg)
+#### Resume attached! ![Resume](./Assets/Media/Demo/ScreenShot2.png)
 
 ### HTML
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1. 
-    2. 
-    3. 
-    4. 
-    5. 
-    6. 
-    7. 
-    8. 
-    9. 
-    10.
-    11. 
-    12. 
-    13. 
-    14. 
+#### [    
 
 ### CSS
 ###### [Back to Table of Contents](#Table-of-Contents)
