@@ -82,11 +82,11 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 ###### [Back to Table of Contents](#Table-of-Contents)
 #### Head ![Head](./Assets/Media/Demo/HTML1.png)
 #### Page Navigation Menu ![Page Navigation Menu](./Assets/Media/Demo/HTML2.png)
-#### Phrases] ![Phrases](./Assets/Media/Demo/HTML3.png)
+#### Phrases ![Phrases](./Assets/Media/Demo/HTML3.png)
 
 ### CSS
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Begin CSS ![Begin CSS](./Assets/Media/Demo/CSS1.png)
+#### Header ![Begin CSS](./Assets/Media/Demo/CSS1.png)
 #### Page Navigation Menu ![Page Navigation Menu](./Assets/Media/Demo/CSS2.png)
 #### Phrases ![Phrases](./Assets/Media/Demo/CSS3.png)
     
