@@ -80,20 +80,15 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 
 ### HTML
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### [    
+#### [Head](./Assets/Media/Demo/HTML1.png)
+#### [Page Navigation Menu](./Assets/Media/Demo/HTML2.png)
+#### [Phrases](./Assets/Media/Demo/HTML3.png)
 
 ### CSS
 ###### [Back to Table of Contents](#Table-of-Contents)
-    1. 
-    2. 
-    3. 
-    4. 
-    5. 
-    6. 
-    7. 
-    8. 
-    9. 
-    10. Published Live URL!
+#### [Begin CSS](./Assets/Media/Demo/CSS1.png)
+#### [Page Navigation Menu](./Assets/Media/Demo/CSS2.png)
+#### [Phrases](./Assets/Media/Demo/CSS3.png)
     
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
