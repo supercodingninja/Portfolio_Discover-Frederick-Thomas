@@ -16,11 +16,11 @@ $("#os-phrases > h2")
 /*Script reference "https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js"*/
 /* Orignal Lettering.JS 0.6.1 by Dave Rupert  - http://daverupert.com */
 (function($){
-    function injector(t,splitter,klass,after){
+    function injector(t,splitter,IhopeThisWorks,after){
         var a=t.text().split(splitter),inject='';
     if(a.length){
         $(a).each(function(i,item){
-            inject+='<span class="'+klass+(i+1)+'">'+item+'</span>'+after
+            inject+='<span class="'+IhopeThisWorks+(i+1)+'">'+item+'</span>'+after
             });
     t.empty().append(inject)
         }
@@ -76,11 +76,11 @@ if (window.devicePixelRatio == 1.5) {
 /*Script reference "https://cdnjs.cloudflare.com/ajax/libs/lettering.js/0.6.1/jquery.lettering.min.js"*/
 /* Orignal Lettering.JS 0.6.1 by Dave Rupert  - http://daverupert.com */
 (function($){
-    function injector(t,splitter,klass,after){
+    function injector(t,splitter,IhopeThisWorks,after){
         var a=t.text().split(splitter),inject='';
     if(a.length){
         $(a).each(function(i,item){
-            inject+='<span class="'+klass+(i+1)+'">'+item+'</span>'+after
+            inject+='<span class="'+IhopeThisWorks+(i+1)+'">'+item+'</span>'+after
             });
     t.empty().append(inject)
         }
