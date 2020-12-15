@@ -75,20 +75,20 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 ### Screenshots
 ###### [Back to Table of Contents](#Table-of-Contents)
 #### Let's Start with our  Demo (without profile photo) ![Demo](./Assets/Media/Demo/cssDemo.gif)
-#### Application we created! [Application](./Assets/Media/Demo/ScreenShot.jpg)
+#### Application we created! ![Application](./Assets/Media/Demo/ScreenShot.jpg)
 #### Resume attached! ![Resume](./Assets/Media/Demo/ScreenShot2.png)
 
 ### HTML
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### [Head](./Assets/Media/Demo/HTML1.png)
-#### [Page Navigation Menu](./Assets/Media/Demo/HTML2.png)
-#### [Phrases](./Assets/Media/Demo/HTML3.png)
+#### ![Head](./Assets/Media/Demo/HTML1.png)
+#### ![Page Navigation Menu](./Assets/Media/Demo/HTML2.png)
+#### ![Phrases](./Assets/Media/Demo/HTML3.png)
 
 ### CSS
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### [Begin CSS](./Assets/Media/Demo/CSS1.png)
-#### [Page Navigation Menu](./Assets/Media/Demo/CSS2.png)
-#### [Phrases](./Assets/Media/Demo/CSS3.png)
+#### ![Begin CSS](./Assets/Media/Demo/CSS1.png)
+#### ![Page Navigation Menu](./Assets/Media/Demo/CSS2.png)
+#### ![Phrases](./Assets/Media/Demo/CSS3.png)
     
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
