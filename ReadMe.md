@@ -78,7 +78,7 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 #### Application we created! ![Application](./Assets/Media/Demo/ScreenShot.jpg)
 
 #### [Awesome CV](https://supercodingninja.github.io/markdown-cv/) I Coded Added.
-<a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="left" src="./Assets/Media/Demo/us.mp4" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="50%" width="50%"/></a>
+#### <a href="https://youtu.be/WXV3oAYTQp4" alt="Page hyperlink to 'Not alone: US!!!' section." title="US!" target="_blank"><img align="left" src="./Assets/Media/Demo/us.mp4" alt="Not alone: US!!! #DiscoverFrederickThomas"  height="50%" width="50%"/></a>
 
 #### Resume attached! ![Resume](./Assets/Media/Demo/ScreenShot2.png)
 
