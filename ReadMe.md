@@ -81,7 +81,9 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 #### Let's Start with our  Demo (without profile photo) ![Demo](./Assets/Media/Demo/cssDemo.gif)
 #### Application we created! ![Application](./Assets/Media/Demo/ScreenShot.jpg)
 
-#### Awesome <a href="https://supercodingninja.github.io/markdown-cv/">Curriculum Vitae</a> I Coded ![CV](Assets/Media/Demo/us.gif)
+#### Awesome <a href="https://supercodingninja.github.io/markdown-cv/">Curriculum Vitae</a> I Coded
+![CV](Assets/Media/Demo/us.gif)
+
 #### .PDF Resume attached! ![Resume](./Assets/Media/Demo/ScreenShot2.png)
 
 ### HTML5
