@@ -14,6 +14,10 @@
 * [Overview: What We Accomplished!](#Overview)
     * [Workflow](#Workflow)
     * [Screenshots](#Screenshots)
+        * [Ideal Demo](#demo)
+        * [Application Created](#application)
+        * [CV](#cv)
+        * [Resume](#resume)
     * [HTML](#HTML)
     * [CSS](#CSS)
 * [Repositiory End-Goal Criterea](#Repositiory-End-Goal-Criterea)
@@ -76,7 +80,8 @@ Have you ever considered creating a portfolio?  Whether you're looking for a par
 ###### [Back to Table of Contents](#Table-of-Contents)
 #### Let's Start with our  Demo (without profile photo) ![Demo](./Assets/Media/Demo/cssDemo.gif)
 #### Application we created! ![Application](./Assets/Media/Demo/ScreenShot.jpg)
-#### Resume attached! ![Resume](./Assets/Media/Demo/ScreenShot2.png)
+#### Awesome <a href="https://supercodingninja.github.io/markdown-cv/">Curriculum Vitae</a> I Coded ![CV](Assets/Media/Demo/us.gif)
+#### .PDF Resume attached! ![Resume](./Assets/Media/Demo/ScreenShot2.png)
 
 ### HTML5
 ###### [Back to Table of Contents](#Table-of-Contents)
